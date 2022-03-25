@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Алексей Сычёв</title>
+    <link>https://onephilosopher.com/</link>
+    <description>Алексей Сычев — инженер и философ</description>
+    <item>
+       <title>Выпуск №2. Фильм «Как я пришла в сознание Кришны» (2-ое мая 2020 г.)</title>
+       <link>https://onephilosopher.com/Алексей_Сычёв_02_Как_я_пришла_в_сознание_Кришны.pdf</link>
+    </item>
+    <item>
+       <title>Выпуск №1. Как стать богатым (даже без везения) — тезисы Наваля Равиканта (6-ое апреля 2020 г.)</title>
+       <link>https://onephilosopher.com/Алексей_Сычёв_01_тезисы_Наваля_Равиканта.pdf</link>
+    </item>
+  </channel>
+</rss>
